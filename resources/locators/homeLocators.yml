@@ -1,0 +1,6 @@
+home:
+  navLogo: css=.header-logo > .logo
+  navMenuHome: css=.main-menu-link >> text=Home
+  navMenuShop: css=.has-megaitem >> text=Shop
+  navMenuPages: css=.main-menu-link >> text=Pages
+  linkRegister: css=[href='/register']

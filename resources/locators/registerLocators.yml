@@ -1,0 +1,6 @@
+register:
+  title: css=.account_form > h3 >> text=Cadastro de usuário
+  inputName: css=#user
+  inputEmail: css=#email
+  inputPassword: css=#password
+  btnRegister: css=#btnRegister >> text=Cadastrar
