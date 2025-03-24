@@ -13,3 +13,5 @@ Quando ele preenche os campos obrigatórios com dados válidos e confirma o cada
     Fill Input Email           ${email}
     Fill Input Password        ${password}
     Click                      ${register.btnRegister}
+
+    E confirma o cadastro      ${name}

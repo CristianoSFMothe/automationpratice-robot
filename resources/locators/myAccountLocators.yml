@@ -1,0 +1,4 @@
+myAccount:
+  registerSuccessful: css=#swal2-title
+  registerUserName: css=.swal2-html-container >> text=Bem-vindo {name}
+  btnOK: css=button >> text=OK
