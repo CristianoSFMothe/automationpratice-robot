@@ -1,4 +1,6 @@
 myAccount:
   registerSuccessful: css=#swal2-title
-  registerUserName: css=.swal2-html-container >> text=Bem-vindo {name}
+  loginSuccessful: css=#swal2-title >> text=Login realizado
   btnOK: css=button >> text=OK
+  btnLogout: css=#userLogged
+  orderButton: css=.fa-truck >> text=Acompanhe seu pedido

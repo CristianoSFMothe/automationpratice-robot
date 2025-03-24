@@ -26,7 +26,7 @@ Cenário 2 - Tentativa de cadastro com nome em branco
     ${data}    Get Json Fixture    register    emptyName
 
     Dado que o usuário acessa a página de cadastro da loja virtual
-    Quando deixa o campo "Nome" em branco e preenche os outros campos obrigatórios   
+    Quando deixa o campo Nome em branco e preenche os outros campos obrigatórios   
     ...    ${data}[account][name]
     ...    ${data}[account][email]
     ...    ${data}[account][password]
@@ -40,7 +40,7 @@ Cenário 3 - Tentativa de cadastro com email em branco
     ${data}    Get Json Fixture    register    emptyEmail
 
     Dado que o usuário acessa a página de cadastro da loja virtual
-    Quando deixa o campo "Nome" em branco e preenche os outros campos obrigatórios   
+    Quando deixa o campo E-mail em branco e preenche os outros campos obrigatórios   
     ...    ${data}[account][name]
     ...    ${data}[account][email]
     ...    ${data}[account][password]
@@ -54,7 +54,7 @@ Cenário 4 - Tentativa de cadastro com senha em branco
     ${data}    Get Json Fixture    register    emptyPassword
 
     Dado que o usuário acessa a página de cadastro da loja virtual
-    Quando deixa o campo "Nome" em branco e preenche os outros campos obrigatórios   
+    Quando deixa o campo Senha em branco e preenche os outros campos obrigatórios   
     ...    ${data}[account][name]
     ...    ${data}[account][email]
     ...    ${data}[account][password]
@@ -69,7 +69,7 @@ Cenário 5 - Tentativa de cadastro com senha fraca
     ${data}    Get Json Fixture    register    weakPassword
 
     Dado que o usuário acessa a página de cadastro da loja virtual
-    Quando deixa o campo "Nome" em branco e preenche os outros campos obrigatórios   
+    Quando informar a Senha fraca e preenche os outros campos obrigatórios 
     ...    ${data}[account][name]
     ...    ${data}[account][email]
     ...    ${data}[account][password]

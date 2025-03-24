@@ -17,4 +17,12 @@ E confirma o cadastro
 
     Should Be Equal As Strings    ${title}          QAZANDO Shop E-Commerce
     Should Be Equal As Strings    ${current_url}    https://automationpratice.com.br/my-account
-  
+
+
+    
+
+    # ${title}    Get Title
+    # ${current_url}    Get Url
+
+    # Should Be Equal As Strings    ${title}          QAZANDO Shop E-Commerce
+    # Should Be Equal As Strings    ${current_url}    https://automationpratice.com.br/my-account

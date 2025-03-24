@@ -1,0 +1,8 @@
+login:
+  linkLogin: css=.right_list_fix >> text=Login
+  title: css=.account_form > h3 >> text=Login
+  inputEmail: css=#user
+  inputPassword: css=#password
+  btnLogin: css=#btnLogin >> text=Login
+  btnAccount: css=#userLogged
+  btnLogout: css=[href='/my-account#!']
