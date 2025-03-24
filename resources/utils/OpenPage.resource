@@ -6,7 +6,7 @@ Resource    ../../resources/base.robot
 
 ${BASE_URL}        https://automationpratice.com.br/
 ${BROWSER}         chromium
-${IS_HEADLESS}     False
+${IS_HEADLESS}     True
 
 *** Keywords ***
 

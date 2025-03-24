@@ -25,6 +25,7 @@ jobs:
         run: |
           echo Instalação das dependências do Projeto
           pip install -r requirements.txt
+          rfbrowser init
 
       - name: Install Allure CLI
         run: |
