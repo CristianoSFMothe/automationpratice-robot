@@ -1,0 +1,37 @@
+{
+  "create": {
+    "account": {
+      "name": "Cristiano Ferreira",
+      "email": "cristiano@email.com",
+      "password": "Abc@123"
+    }
+  },
+  "emptyName": {
+    "account": {
+      "name": "",
+      "email": "cristiano@email.com",
+      "password": "Abc@123"
+    }
+  },
+  "emptyEmail": {
+    "account": {
+      "name": "Cristiano Ferreira",
+      "email": "",
+      "password": "Abc@123"
+    }
+  },
+  "emptyPassword": {
+    "account": {
+      "name": "Cristiano Ferreira",
+      "email": "cristiano@email.com",
+      "password": ""
+    }
+  },
+  "weakPassword": {
+    "account": {
+      "name": "Cristiano Ferreira",
+      "email": "cristiano@email.com",
+      "password": "123"
+    }
+  }
+}
