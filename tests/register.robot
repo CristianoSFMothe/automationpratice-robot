@@ -9,7 +9,7 @@ Test Teardown    Finish Browser
 *** Test Cases ***
 Cenário 1 - Cadastro bem-sucedido
     [Documentation]    Teste de cadastro de usuário com sucesso
-    [Tags]             Cadastro
+    [Tags]             create
 
     ${data}    Get Json Fixture    register    create
 
