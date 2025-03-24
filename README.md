@@ -7,10 +7,11 @@
 
 Este repositório contém testes automatizados para o site [Automation Practice](https://automationpratice.com.br/) utilizando **Robot Framework** com a **Library Browser**.
 
----
+
 
 ## 📂 Estrutura do Projeto
 
+```
 📦 automationpratice-robot
 ├── 📂 .github
 │ ├── 📂 workflows
@@ -40,6 +41,7 @@ Este repositório contém testes automatizados para o site [Automation Practice]
 │ ├── logout.robot # Testes de Logout
 │ ├── register.robot # Testes de Cadastro
 └── README.md # Documentação do projeto
+```
 
 ---
 
