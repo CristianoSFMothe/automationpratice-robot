@@ -1,9 +1,13 @@
 # 🛒 Automation Practice - Robot Framework
 
-![GitHub repo size](https://img.shields.io/github/repo-size/CristianoSFMothe/automationpratice-robot?style=for-the-badge)  
-![GitHub last commit](https://img.shields.io/github/last-commit/CristianoSFMothe/automationpratice-robot?style=for-the-badge)  
-![GitHub issues](https://img.shields.io/github/issues/CristianoSFMothe/automationpratice-robot?style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/CristianoSFMothe/automationpratice-robot?style=for-the-badge)
+<div align="center">
+<img src="https://img.shields.io/github/repo-size/CristianoSFMothe/automationpratice-robot?style=for-the-badge" /> 
+<img src="https://img.shields.io/github/last-commit/CristianoSFMothe/automationpratice-robot?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/CristianoSFMothe/automationpratice-robot?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/CristianoSFMothe/automationpratice-robot?style=for-the-badge" />
+</div>
+
+
 
 Este repositório contém testes automatizados para o site [Automation Practice](https://automationpratice.com.br/) utilizando **Robot Framework** com a **Library Browser**.
 
